@@ -1,0 +1,7 @@
+*.pyc
+*.log
+*.prefs
+.idea
+.vscode
+images
+.scrapy

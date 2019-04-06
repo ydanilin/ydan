@@ -1,0 +1,67 @@
+
+flask microservices
+https://medium.com/@ssola/building-microservices-with-python-part-i-5240a8dcc2fb
+
+structure of a Flask project:
+https://lepture.com/en/2018/structure-of-a-flask-project
+
+github search:
+<what> user:<user> extension:py
+
+routes incorporation:
+https://github.com/Sally-Xu/PythonBlog/blob/1cc69791cf7a58c20f3fef46c1caf770535f6b92/app/app.py
+
+mapa:
+https://github.com/pbaesse/Mapa-da-Gentileza/blob/cf69cb12e65a5e52f16b8bb47762bf3928afff0f/app/feed/routes.py
+
+sudo apt-get install tree
+
+.
+├── routes
+│   ├── articles.py
+│   ├── base.py
+│   ├── __init__.py
+├── static
+│   └── articles
+│       └── decl_testing
+│           ├── test_invok_gabbi.svg
+│           └── test_invok_standard.svg
+├── templates
+│   ├── articles
+│   │   └── decl_testing
+│   │       └── decl_testing.html
+│   └── devstyle.css
+├── app.py
+├── __init__.py
+└── wsgi.py
+
+
+.
+├── decl_testing
+│   ├── decl_testing
+│   │   ├── test_invok_gabbi.svg
+│   │   └── test_invok_standard.svg
+│   ├── decl_testing.html
+│   ├── decl_testing.md
+│   ├── devstyle.css
+│   └── prototypes
+│       ├── nginx-uwsgi-simple.svg
+│       ├── test_invok_gabbi.svg
+│       └── test_invok_standard.svg
+├── other_article
+
+
+Inkscape extensions folder (edit -> preferences -> system):
+/home/yury/.config/inkscape/extensions
+
+Disabled Latex:
+/home/yury/.config/inkscape/extensions/inkscapeMadeEasy_Draw.py
+
+Circuit symbols:
+https://github.com/fsmMLK/inkscapeCircuitSymbols
+
+O Haskell: https://www.ohaskell.guide
+
+Sample design: http://joelcox.io/
+Materialize css: https://materializecss.com/getting-started.html
+

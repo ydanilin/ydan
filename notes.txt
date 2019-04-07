@@ -65,3 +65,26 @@ O Haskell: https://www.ohaskell.guide
 Sample design: http://joelcox.io/
 Materialize css: https://materializecss.com/getting-started.html
 
+
+http://www.jeffwidman.com/blog/802/configuring-a-single-nginx-uwsgi-server-to-serve-multiple-flask-apps/
+1. Install uwsgi globally:
+sudo apt-get install uwsgi uwsgi-plugin-python3
+
+2. Test launch uwsgi:
+uwsgi --emperor /etc/uwsgi/emperor.ini
+
+sudo systemctl start emperor.uwsgi
+
+/etc/uwsgi/apps-available
+/home/dan/miniconda3/envs/tflask/bin
+
+probuem
+/home/dan/miniconda3/envs/tflask
+
+journalctl -ef
+
+sudo apt-get install python3-venv
+/usr/bin/python3 -m venv /home/dan/dev/pitonizm/ydan/venv
+source ./venv/bin/activate
+
+

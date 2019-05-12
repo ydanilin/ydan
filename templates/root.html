@@ -22,7 +22,7 @@
             <div class="nav-wrapper">
                 <a href="#" data-target="slide-out" class="sidenav-trigger show-on-large"><i
                         class="material-icons">menu</i></a>
-                <a href="#" class="brand-logo center">Home</a>
+                <a href="#" class="brand-logo center">{{ logo_text }}</a>
             </div>
         </nav>
     </div>
@@ -62,44 +62,9 @@
             </ul>
         </li>
     </ul>
-    <div class="container">
-        <div class="section">
-            <h2 class="header center teal-text text-darken-3">Scratches from Yury</h1>
-            <h4 class="center">This will be Gan Eden here...</h3>
-        </div>
-        <div class="divider"></div>
-        <div class="section">
-            <h5>Flight Logbook</h5>
-            <p>
-            Whenever I'm doing either a commercial or pet programming project
-            or some DIY stuff, I always try to record what was done, learned,
-            investigated. This creates a reference base we can consult with when needed.
-            When possible, I prefer using pictures like shown here.
-            </p>
-        </div>
-        <div class="divider"></div>
-        <div class="section">
-            <div class="row">
-                <div class="col s12 m6">
-                    <h5>Burdensome Devops</h5>
-                    <p>
-                    Not the most creative part of our life but really needed.
-                    Memory cards how to do (how I did) various system setup tasks.
-                    </p>
-                </div>
-                <div class="col s12 m6">
-                    <h5>Song of Songs</h5>
-                    <p>
-                    What workflow I use to write articles in a way to be easily ported from
-                    simple (Markdown) text either onto website or PDF paper.
-                    This includes issues with graphics, formulas, styles etc.
-                    Start point is Markdown in VSCode, which then
-                    goes into Pandoc to be converted appropriately...
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
+
+    {% block content %}
+    {% endblock %}
 
 </body>
 

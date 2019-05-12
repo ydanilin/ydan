@@ -87,4 +87,4 @@ sudo apt-get install python3-venv
 /usr/bin/python3 -m venv /home/dan/dev/pitonizm/ydan/venv
 source ./venv/bin/activate
 
-
+export FLASK_ENV=development && python wsgi.py

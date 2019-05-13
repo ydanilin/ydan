@@ -88,3 +88,4 @@ sudo apt-get install python3-venv
 source ./venv/bin/activate
 
 export FLASK_ENV=development && python wsgi.py
+("set" on Windows)

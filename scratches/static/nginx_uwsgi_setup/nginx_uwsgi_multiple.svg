@@ -12,7 +12,7 @@
    viewBox="0 0 297 210"
    height="210mm"
    width="297mm"
-   sodipodi:docname="nginx-uwsgi-multiple.svg"
+   sodipodi:docname="nginx_uwsgi_multiple.svg"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    inkscape:label="tframe01">
   <sodipodi:namedview
@@ -29,8 +29,8 @@
      id="namedview4592"
      showgrid="false"
      inkscape:document-units="mm"
-     inkscape:zoom="0.5"
-     inkscape:cx="561.26"
+     inkscape:zoom="1.0205"
+     inkscape:cx="552.44"
      inkscape:cy="396.85"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
@@ -58,7 +58,7 @@
       <path
          transform="scale(1.1) rotate(180) translate(1,0)"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#00695c;stroke-opacity:1;fill:#00695c;fill-opacity:1"
          id="path3062" />
     </marker>
     <marker
@@ -72,7 +72,7 @@
       <path
          transform="scale(1.1) rotate(180) translate(1,0)"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#00695c;stroke-opacity:1;fill:#00695c;fill-opacity:1"
          id="path2720" />
     </marker>
     <marker
@@ -85,7 +85,7 @@
        inkscape:isstock="true">
       <path
          id="path2103"
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#00695c;stroke-opacity:1;fill:#00695c;fill-opacity:1"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          transform="scale(1.1) rotate(180) translate(1,0)" />
     </marker>
@@ -224,7 +224,7 @@
       <path
          id="path1467"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         style="fill:#00695c;fill-opacity:1;fill-rule:evenodd;stroke:#00695c;stroke-width:1pt;stroke-opacity:1"
          transform="matrix(0.8,0,0,0.8,10,0)"
          inkscape:connector-curvature="0" />
     </marker>
@@ -286,7 +286,7 @@
       <path
          inkscape:connector-curvature="0"
          transform="matrix(0.8,0,0,0.8,10,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         style="fill:#00695c;fill-opacity:1;fill-rule:evenodd;stroke:#00695c;stroke-width:1pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path5147" />
     </marker>
@@ -363,7 +363,7 @@
       <path
          inkscape:connector-curvature="0"
          transform="matrix(0.8,0,0,0.8,10,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         style="fill:#00695c;fill-opacity:1;fill-rule:evenodd;stroke:#00695c;stroke-width:1pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path3102" />
     </marker>
@@ -379,7 +379,7 @@
       <path
          id="path3096"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         style="fill:#00695c;fill-opacity:1;fill-rule:evenodd;stroke:#00695c;stroke-width:1pt;stroke-opacity:1"
          transform="matrix(0.8,0,0,0.8,10,0)"
          inkscape:connector-curvature="0" />
     </marker>
@@ -422,7 +422,7 @@
        inkscape:collect="always">
       <path
          id="path5340"
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#00695c;stroke-opacity:1;fill:#00695c;fill-opacity:1"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          transform="scale(1.1) rotate(180) translate(1,0)" />
     </marker>
@@ -439,13 +439,6 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <rect
-     style="fill:none;stroke:#000000;stroke-width:0.24999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect871"
-     width="269.74"
-     height="189.75"
-     x="10.125"
-     y="10.125" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458"
@@ -546,28 +539,24 @@
        id="rect907"
        style="opacity:0.99;fill:none;stroke:#000000;stroke-width:0.29998;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
-  <g
-     id="g2203"
-     transform="translate(155.07,-44.05)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458"
-       x="-119.92"
-       y="105.08"
-       id="text2180"><tspan
-         sodipodi:role="line"
-         id="tspan2178"
-         x="-119.92"
-         y="105.08"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458">NGINX server</tspan></text>
-    <rect
-       y="99.215"
-       x="-125.07"
-       height="8.7"
-       width="37.036"
-       id="rect2198"
-       style="opacity:0.99;fill:none;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  </g>
+  <text
+     id="text2180"
+     y="61.03"
+     x="35.15"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#616161;fill-opacity:1;stroke:none;stroke-width:0.26458"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458;fill:#616161;fill-opacity:1"
+       y="61.03"
+       x="35.15"
+       id="tspan2178"
+       sodipodi:role="line">NGINX server</tspan></text>
+  <rect
+     style="opacity:0.99;fill:none;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect2198"
+     width="37.036"
+     height="8.7"
+     x="30"
+     y="55.165" />
   <text
      id="text870"
      y="76.793"
@@ -676,11 +665,11 @@
      inkscape:connector-curvature="0"
      id="path31818"
      d="M 48.513,73.213 V 63.78"
-     style="fill:none;stroke:#000000;stroke-width:0.29999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1469)"
+     style="fill:none;stroke:#00695c;stroke-width:0.29999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1469)"
      sodipodi:nodetypes="cc" />
   <path
      sodipodi:nodetypes="cc"
-     style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3098)"
+     style="fill:none;stroke:#00695c;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3098)"
      d="m 48.513,87.413 v -9.61"
      id="path3090"
      inkscape:connector-curvature="0" />
@@ -688,7 +677,7 @@
      inkscape:connector-curvature="0"
      id="path3100"
      d="M 48.513,101.52 V 91.903"
-     style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3104)"
+     style="fill:none;stroke:#00695c;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3104)"
      sodipodi:nodetypes="cc" />
   <text
      xml:space="preserve"
@@ -711,52 +700,55 @@
        y="174.75"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17498px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458"
        id="tspan4794">socket files</tspan></text>
+  <rect
+     style="opacity:0.99;fill:none;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1261"
+     width="45.832"
+     height="55.315"
+     x="148.11"
+     y="117.38" />
   <text
      id="text4958"
-     y="30.09"
+     y="35.38"
      x="29.752"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17498px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458"
      xml:space="preserve"><tspan
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17498px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458"
-       y="30.09"
+       y="35.38"
        x="29.752"
        id="tspan4956"
        sodipodi:role="line">sudo systemctl start/stop/restart/reload nginx</tspan></text>
   <text
      id="text4976"
-     y="111.54"
-     x="230.25"
+     y="111.01"
+     x="228.49"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17498px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458"
      xml:space="preserve"><tspan
        id="tspan4974"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17498px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458"
-       y="111.54"
-       x="230.25"
+       y="111.01"
+       x="228.49"
        sodipodi:role="line">wsgi.py</tspan></text>
-  <g
-     id="g2208"
-     transform="translate(225.78,-3.9346)">
-    <text
-       id="text2184"
-       y="118.66"
-       x="-120.85"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458"
-         y="118.66"
-         x="-120.85"
-         id="tspan2182"
-         sodipodi:role="line">App 1</tspan></text>
-    <rect
-       style="opacity:0.99;fill:none;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect2192"
-       width="37.036"
-       height="8.7"
-       x="-125.53"
-       y="112.79" />
-  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458"
+     x="106.25"
+     y="114.31"
+     id="text2184"><tspan
+       sodipodi:role="line"
+       id="tspan2182"
+       x="106.25"
+       y="114.31"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458">App 1 (Flask)</tspan></text>
+  <rect
+     y="108.86"
+     x="100.25"
+     height="8.7"
+     width="37.036"
+     id="rect2192"
+     style="opacity:0.99;fill:none;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <path
-     style="opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2362)"
+     style="opacity:0.99;fill:none;fill-opacity:1;stroke:#00695c;stroke-width:0.3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2362)"
      d="m 78.514,129.86 71.296,3.89"
      id="path2042"
      inkscape:connector-curvature="0"
@@ -993,7 +985,7 @@
      inkscape:connector-curvature="0"
      id="path5145"
      d="M 30,59.757 17.548,59.742 17.47,27.309"
-     style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5149)"
+     style="fill:none;stroke:#00695c;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5149)"
      sodipodi:nodetypes="ccc" />
   <path
      sodipodi:nodetypes="cccc"
@@ -1035,55 +1027,47 @@
      height="10.64"
      x="117.74"
      y="39.763" />
-  <g
-     id="g1475"
-     transform="translate(6.721,-74.585)">
-    <text
-       id="text1207"
-       y="90.572"
-       x="138.17"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458"
-         y="90.572"
-         x="138.17"
-         id="tspan1205"
-         sodipodi:role="line">uWSGI server,</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458"
-         y="95.864"
-         x="138.17"
-         sodipodi:role="line"
-         id="tspan1213">emperor mode</tspan></text>
-    <rect
-       style="opacity:0.99;fill:none;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1209"
-       width="37.036"
-       height="14.258"
-       x="119.64"
-       y="84.969" />
-  </g>
-  <g
-     transform="translate(276.53,-14.472)"
-     id="g1229">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458"
-       x="-120.85"
-       y="118.66"
-       id="text1225"><tspan
-         sodipodi:role="line"
-         id="tspan1223"
-         x="-120.85"
-         y="118.66"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458">App 2</tspan></text>
-    <rect
-       y="112.79"
-       x="-125.53"
-       height="8.7"
-       width="37.036"
-       id="rect1227"
-       style="opacity:0.99;fill:none;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#616161;fill-opacity:1;stroke:none;stroke-width:0.26458"
+     x="144.89"
+     y="15.987"
+     id="text1207"><tspan
+       sodipodi:role="line"
+       id="tspan1205"
+       x="144.89"
+       y="15.987"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458;fill:#616161;fill-opacity:1">uWSGI server,</tspan><tspan
+       id="tspan1213"
+       sodipodi:role="line"
+       x="144.89"
+       y="21.279"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458;fill:#616161;fill-opacity:1">emperor mode</tspan></text>
+  <rect
+     y="10.384"
+     x="126.36"
+     height="14.258"
+     width="37.036"
+     id="rect1209"
+     style="opacity:0.99;fill:none;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text1225"
+     y="103.76"
+     x="155.81"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458"
+       y="103.76"
+       x="155.81"
+       id="tspan1223"
+       sodipodi:role="line">App 2 (simplest)</tspan></text>
+  <rect
+     style="opacity:0.99;fill:none;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1227"
+     width="37.036"
+     height="8.7"
+     x="152.51"
+     y="98.318" />
   <text
      id="text1259"
      y="122.63"
@@ -1155,17 +1139,10 @@
        x="150.87"
        sodipodi:role="line"
        id="tspan1391">die-on-term = true</tspan></text>
-  <rect
-     style="opacity:0.99;fill:none;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect1261"
-     width="45.832"
-     height="55.315"
-     x="148.11"
-     y="117.38" />
   <path
      sodipodi:nodetypes="cc"
      style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1405)"
-     d="m 169.52,116.75 v -9.61"
+     d="m 171.03,116.75 v -9.61"
      id="path1263"
      inkscape:connector-curvature="0" />
   <text
@@ -1201,49 +1178,45 @@
        x="235.74"
        y="50.821" />
   </g>
-  <g
-     id="g1844"
-     transform="translate(-49.847,117.65)">
-    <text
-       id="text1544"
-       y="71.363"
-       x="287.41"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458"
-       xml:space="preserve"><tspan
-         id="tspan1518"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458"
-         y="71.363"
-         x="287.41"
-         sodipodi:role="line"># imported instance</tspan><tspan
-         id="tspan1634"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458"
-         y="75.332"
-         x="287.41"
-         sodipodi:role="line">app = Flask()</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458"
-         y="79.3"
-         x="287.41"
-         sodipodi:role="line"
-         id="tspan1542">app.run()</tspan></text>
-    <text
-       id="text1628"
-       y="65.99"
-       x="287.8"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17498px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458"
-       xml:space="preserve"><tspan
-         id="tspan1626"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17498px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458"
-         y="65.99"
-         x="287.8"
-         sodipodi:role="line">wsgi.py</tspan></text>
-    <rect
-       style="opacity:0.99;fill:none;stroke:#000000;stroke-width:0.29998;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1630"
-       width="37.845"
-       height="14.65"
-       x="285.18"
-       y="67.338" />
-  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458"
+     x="237.56"
+     y="189.01"
+     id="text1544"><tspan
+       sodipodi:role="line"
+       x="237.56"
+       y="189.01"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458"
+       id="tspan1518"># imported instance</tspan><tspan
+       sodipodi:role="line"
+       x="237.56"
+       y="192.98"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458"
+       id="tspan1634">app = Flask()</tspan><tspan
+       id="tspan1542"
+       sodipodi:role="line"
+       x="237.56"
+       y="196.95"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458">app.run()</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17498px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458"
+     x="235.17"
+     y="183.11"
+     id="text1628"><tspan
+       sodipodi:role="line"
+       x="235.17"
+       y="183.11"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17498px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458"
+       id="tspan1626">wsgi.py</tspan></text>
+  <rect
+     y="184.99"
+     x="235.33"
+     height="14.65"
+     width="37.845"
+     id="rect1630"
+     style="opacity:0.99;fill:none;stroke:#000000;stroke-width:0.29998;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <path
      inkscape:connector-curvature="0"
      id="path1831"
@@ -1298,18 +1271,18 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccc" />
   <path
-     style="opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+     style="opacity:0.99;fill:none;fill-opacity:1;stroke:#00695c;stroke-width:0.3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
      d="m 79.115,145.95 18.033,-1.51"
      id="path2044"
      inkscape:connector-curvature="0" />
   <path
-     style="opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2722)"
+     style="opacity:0.99;fill:none;fill-opacity:1;stroke:#00695c;stroke-width:0.3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2722)"
      d="m 190.29,149.59 41.2,-29.33"
      id="path2046"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cc" />
   <path
-     style="opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3064)"
+     style="opacity:0.99;fill:none;fill-opacity:1;stroke:#00695c;stroke-width:0.3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3064)"
      d="m 126.02,169.52 110.79,23.15"
      id="path2048"
      inkscape:connector-curvature="0"

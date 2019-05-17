@@ -89,3 +89,6 @@ source ./venv/bin/activate
 
 export FLASK_ENV=development && python wsgi.py
 ("set" on Windows)
+
+svg styling with css:
+https://habr.com/ru/post/260645/

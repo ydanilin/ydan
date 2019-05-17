@@ -3,7 +3,7 @@ from scratches import scratches
 
 
 @scratches.route("/nginx-uwsgi-setup")
-def home():
+def show_nginx_setups():
     return render_template(
         'nginx_uwsgi_setup.html', logo_text='Nginx+uWSGI setups'
     )

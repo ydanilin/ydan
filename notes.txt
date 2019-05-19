@@ -92,3 +92,17 @@ export FLASK_ENV=development && python wsgi.py
 
 svg styling with css:
 https://habr.com/ru/post/260645/
+
+document.querySelector("object[type='image/svg+xml']");
+document.styleSheets[1].cssRules[0];
+
+Style​Sheet​List:
+https://developer.mozilla.org/en-US/docs/Web/API/StyleSheetList
+
+CSSRule:
+https://developer.mozilla.org/en-US/docs/Web/API/CSSRule
+
+CSSStyleRule:
+https://developer.mozilla.org/en-US/docs/Web/API/CSSStyleRule
+
+https://stackoverflow.com/questions/8987550/convert-css-text-to-javascript-object

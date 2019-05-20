@@ -5,7 +5,8 @@
 <div class="section">
     <div class="row">
         <div class="col s12">
-            <img src="static/nginx_uwsgi_setup/nginx_uwsgi_simple.svg" alt="Nginx + uWSGI simple setup"/>
+            <object id="picture1" type="image/svg+xml"
+                data="static/nginx_uwsgi_setup/nginx_uwsgi_simple.svg"></object>
         </div>
     </div>
 </div>
@@ -13,72 +14,38 @@
 <div class="section">
     <div class="row">
         <div class="col s12">
-            <object id="picture1" type="image/svg+xml" data="static/nginx_uwsgi_setup/nginx_uwsgi_multiple.svg"></object>
-            <!-- <svg>
-                <use xlink:href="nginx_uwsgi_multiple.svg#svg8"></use>
-            </svg> -->
-            <!-- <img src="static/nginx_uwsgi_setup/nginx_uwsgi_multiple.svg" alt="Nginx + uWSGI multiple setup"/> -->
+            <object id="picture2" type="image/svg+xml"
+                data="static/nginx_uwsgi_setup/nginx_uwsgi_multiple.svg"></object>
         </div>
     </div>
 </div>
 
+<script type="text/javascript" src="/static/js/paintsvgs.js"></script>
 <script>
-    const huj = {
+    const transformTable = {
         "stylePrefix": "materialize",
-        "whatToPaint": {
-            "picture1": [
-                {
-                    "sourceClass": "execution-flow",
-                    "cssClass": "teal-text",
-                    "nameMatches": [
-                        ["stroke", "color"],
-                    ],
-                },
-            ],
-            "picture2": [],
+        "picturesToProcess": {
+            "picture1": {
+                "toPaint": [
+                    {
+                        "sourceClass": "execution-flow",
+                        "nameMatches": [
+                            ["stroke", "color", "teal-text text-darken-3"],
+                        ],
+                    },
+                ],
+            },
+            "picture2": {
+                "sameAs": "picture1",
+            },
         },
     };
-    function getStylesheet(sheets, transformTable) {
-        const iterArr = [].slice.call(sheets)
-        const [styleSheetList] = iterArr.filter(
-            x => x.href.includes(transformTable.stylePrefix)
-        );
-        const result = [].slice.call(styleSheetList.cssRules).reduce(
-            (acc, x) => ( {...acc, [x.selectorText]: x} ),
-            {}
-        );
-        return result;
-    };
 
-    function paintElement(treatments, sheet, element) {
-        function forMap(element) {
-            // search treatments by source class
-            const [transformRecord] = treatments.filter(x => element.classList.contains(x.sourceClass));
-            // console.log(sheet['.teal-text.text-darken-3']);
-            const selectorText = ['', ...transformRecord.cssClass.split(' ')].join('.');
-            
-            console.log(sheet[selectorText]);
-        };
-        return forMap;
-    };
-
-    function paintPicture(pictures, transformTable) {
-        const [head, ...tail] = pictures;
-        if (!head) { return };
-        const svgDocument = head.contentDocument;
-        const sheet = getStylesheet(document.styleSheets, transformTable);
-        const candidates = [].slice.call(svgDocument.querySelectorAll("[class]"));
-        const treatments = transformTable.whatToPaint[head.id];
-        candidates.map(paintElement(treatments, sheet));
-        // console.log(treatments);
-        paintPicture(tail, transformTable);
-    };
-    
     window.addEventListener('load', (event) => {
-        const pictu = document.querySelectorAll("object[type='image/svg+xml']");
-        paintPicture(pictu, huj);
+        const pictures = document.querySelectorAll("object[type='image/svg+xml']");
+        const sheet = getStylesheet(document.styleSheets, transformTable);
+        paintPicture(pictures, transformTable, sheet);
     });
-    
 </script>
 
 {% endblock %}

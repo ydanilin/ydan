@@ -12,7 +12,7 @@
    viewBox="0 0 297 210"
    height="210mm"
    width="297mm"
-   sodipodi:docname="nginx-uwsgi-simple.svg"
+   sodipodi:docname="nginx_uwsgi_simple.svg"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    inkscape:label="tframe01">
   <sodipodi:namedview
@@ -30,7 +30,7 @@
      showgrid="false"
      inkscape:document-units="mm"
      inkscape:zoom="0.7514"
-     inkscape:cx="342"
+     inkscape:cx="105.77"
      inkscape:cy="391.03"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
@@ -368,13 +368,6 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <rect
-     style="fill:none;stroke:#000000;stroke-width:0.24999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect871"
-     width="269.74"
-     height="189.75"
-     x="10.125"
-     y="10.125" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458"
@@ -673,7 +666,8 @@
      id="path31818"
      d="M 75.591,93.024 V 78.765"
      style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1683)"
-     sodipodi:nodetypes="cc" />
+     sodipodi:nodetypes="cc"
+     class="execution-flow" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17498px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458"
@@ -690,7 +684,8 @@
      style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3098)"
      d="M 75.59,125.46 V 111.2"
      id="path3090"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     class="execution-flow" />
   <text
      id="text3094"
      y="117.71"
@@ -936,7 +931,7 @@
          sodipodi:role="line"
          x="203.65"
          y="33.976"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458"></tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458" /><tspan
          id="tspan5094"
          sodipodi:role="line"
          x="203.65"
@@ -971,7 +966,7 @@
          sodipodi:role="line"
          x="203.65"
          y="61.757"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458"></tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458" /><tspan
          id="tspan5108"
          sodipodi:role="line"
          x="203.65"
@@ -1039,7 +1034,8 @@
      id="path5145"
      d="M 56.424,74.43 29.336,74.344"
      style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5149)"
-     sodipodi:nodetypes="cc" />
+     sodipodi:nodetypes="cc"
+     class="execution-flow" />
   <path
      sodipodi:nodetypes="cccc"
      inkscape:connector-curvature="0"

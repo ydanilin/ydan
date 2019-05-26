@@ -1,0 +1,3 @@
+Put into:
+Linux:
+    ~/.config/inkscape/extensions/set_class.py

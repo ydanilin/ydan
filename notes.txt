@@ -106,3 +106,15 @@ CSSStyleRule:
 https://developer.mozilla.org/en-US/docs/Web/API/CSSStyleRule
 
 https://stackoverflow.com/questions/8987550/convert-css-text-to-javascript-object
+
+
+Next work:
+Toasts: https://materializecss.com/toasts.html
+
+Alerts: https://stackoverflow.com/questions/38156282/create-alert-using-materialize-css
+
+
+Open the Keyboard Shortcut by pressing Ctrl + K then Ctrl + S and search for Collapse,
+
+Multiple databases:
+https://stackoverflow.com/questions/15021292/configuring-flask-sqlalchemy-to-use-multiple-databases-with-flask-restless

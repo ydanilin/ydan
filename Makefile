@@ -1,3 +1,2 @@
 run:
-	export FLASK_ENV=development
-	python wsgi.py
+	python rundev.py

@@ -1,10 +1,11 @@
 from flask import Flask
-from config import Config
 from flask_migrate import Migrate
-from root import root
-from root.models import db as root_db
-from articles import articles
-from scratches import scratches
+from flask_login import LoginManager
+from config import Config
+from .root import root
+from .root.models import db as root_db, User, Post
+from .articles import articles
+from .scratches import scratches
 
 
 migrate = Migrate()
@@ -16,10 +17,21 @@ def create_app():
 
     root_db.init_app(app)
     migrate.init_app(app, root_db)
+    login = LoginManager()
+    login.login_view = 'login'
+    login.init_app(app)
 
     app.register_blueprint(root)
     app.register_blueprint(articles, url_prefix='/articles')
     app.register_blueprint(scratches, url_prefix='/scratches')
+
+    @login.user_loader
+    def load_user(id):
+        return User.query.get(int(id))
+
+    @app.shell_context_processor
+    def make_shell_context():
+        return {'db': root_db, 'User': User, 'Post': Post}
 
     return app
 

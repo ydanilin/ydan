@@ -5,4 +5,4 @@ scratches = Blueprint(
     'scratches', __name__, template_folder='templates', static_folder='static'
 )
 
-from scratches import routes
+from . import routes

@@ -118,3 +118,7 @@ Open the Keyboard Shortcut by pressing Ctrl + K then Ctrl + S and search for Col
 
 Multiple databases:
 https://stackoverflow.com/questions/15021292/configuring-flask-sqlalchemy-to-use-multiple-databases-with-flask-restless
+
+
+[uwsgi] pkgdir+loggers:
+http://blog.unixstyle.ru/334/uwsgi-separate-stdoutstderr-logging-via-logfile/

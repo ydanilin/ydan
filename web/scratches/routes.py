@@ -1,5 +1,5 @@
 from flask import render_template
-from scratches import scratches
+from . import scratches
 
 
 @scratches.route("/nginx-uwsgi-setup")

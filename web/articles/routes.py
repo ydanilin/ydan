@@ -1,6 +1,6 @@
 import os
 from flask import render_template, send_from_directory
-from articles import articles
+from . import articles
 
 
 @articles.route("/declarative-testing-with-gabbi")

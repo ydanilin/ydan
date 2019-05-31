@@ -27,9 +27,9 @@
      inkscape:window-height="1003"
      id="namedview213"
      showgrid="false"
-     inkscape:zoom="1.0929"
-     inkscape:cx="548.06"
-     inkscape:cy="189.56"
+     inkscape:zoom="2.6191"
+     inkscape:cx="905.29"
+     inkscape:cy="95.16"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -688,7 +688,7 @@
        id="tspan447"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458"
        y="169.05"
-       x="98.264">module = wsgi:app</tspan><tspan
+       x="98.264">module = wsgi:instance</tspan><tspan
        id="tspan449"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458"
        y="173.02"
@@ -1001,37 +1001,51 @@
   <text
      id="text1544"
      y="189.01"
-     x="237.56"
+     x="233.56"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458"
      xml:space="preserve"><tspan
        id="tspan1518"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458"
        y="189.01"
-       x="237.56"># imported instance</tspan><tspan
+       x="233.56">from web import create_app</tspan><tspan
        id="tspan1634"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458"
        y="192.98"
-       x="237.56">app = Flask()</tspan><tspan
+       x="233.56" /><tspan
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458"
-       y="196.95"
-       x="237.56"
-       id="tspan1542">app.run()</tspan></text>
+       y="192.98"
+       x="233.56"
+       id="tspan219" /><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458"
+       y="192.98"
+       x="233.56"
+       id="tspan221" /></text>
+  <text
+     y="190.6"
+     x="233.6"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458"
+     xml:space="preserve"
+     id="text215"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458"
+       y="194.57"
+       x="233.6"
+       id="tspan217">instance = create_app()</tspan></text>
   <text
      id="text1628"
-     y="183.11"
-     x="235.17"
+     y="183.41"
+     x="232.14"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17498px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458"
      xml:space="preserve"><tspan
        id="tspan1626"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17498px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458"
-       y="183.11"
-       x="235.17">wsgi.py</tspan></text>
+       y="183.41"
+       x="232.14">wsgi.py</tspan></text>
   <rect
      style="opacity:0.99;fill:none;stroke:#000000;stroke-width:0.29998;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect1630"
-     width="37.845"
-     height="14.65"
-     x="235.33"
+     width="45.724"
+     height="12.45"
+     x="231.39"
      y="184.99" />
   <path
      style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1835)"
@@ -1081,8 +1095,10 @@
      style="opacity:0.99;fill:none;fill-opacity:1;stroke:#00695c;stroke-width:0.3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2722)" />
   <path
      id="path2048"
-     d="m 126.02,169.52 110.79,23.15"
-     style="opacity:0.99;fill:none;fill-opacity:1;stroke:#00695c;stroke-width:0.3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3064)" />
+     d="m 131.01,170.24 101.76,23.24"
+     style="opacity:0.99;fill:none;fill-opacity:1;stroke:#00695c;stroke-width:0.3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3064)"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
   <path
      id="path2076"
      d="m 254.26,184.69 v -9.61"

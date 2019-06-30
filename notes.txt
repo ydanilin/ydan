@@ -122,3 +122,5 @@ https://stackoverflow.com/questions/15021292/configuring-flask-sqlalchemy-to-use
 
 [uwsgi] pkgdir+loggers:
 http://blog.unixstyle.ru/334/uwsgi-separate-stdoutstderr-logging-via-logfile/
+
+pip freeze > requirements.txt

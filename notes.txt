@@ -126,3 +126,13 @@ http://blog.unixstyle.ru/334/uwsgi-separate-stdoutstderr-logging-via-logfile/
 pip freeze > requirements.txt
 source ./venv/bin/activate
 pip install -r requirements.txt
+
+https://realpython.com/flask-connexion-rest-api/
+pip install connexion[swagger-ui]
+
+Grinberg profile:
+https://stackoverflow.com/users/904393/miguel
+
+JWT Token-based:
+https://realpython.com/token-based-authentication-with-flask/
+https://blog.miguelgrinberg.com/post/restful-authentication-with-flask

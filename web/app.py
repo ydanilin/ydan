@@ -1,7 +1,7 @@
 from flask import Flask
 from flask_migrate import Migrate
 from flask_login import LoginManager
-from config import Config
+from .config import Config
 from .root import root
 from .root.models import db as root_db, User, Post
 from .articles import articles

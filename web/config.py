@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 
 
-basedir = Path(__file__).resolve().parent
+basedir = Path(__file__).resolve().parent.parent
 
 
 class Config(object):
